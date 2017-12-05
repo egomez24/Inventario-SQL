@@ -1,0 +1,3 @@
+JESUCRISTO vive!
+tienes que  entrar al codigo y cambiar el server sql por el tuyo tambien ingresar la base de datos inventario
+en tu server para hacer la consulta
